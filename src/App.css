@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.main {
+  background-image: url('./components/images/hentai-1590426817539-2575.jpg');
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  background-color: rgba(190, 190, 190, 0.5);
+  color: blue;
+  font-weight: bold;
+}
+
+.headers {
+  color: blue;
+  font-weight: bold;
+}
